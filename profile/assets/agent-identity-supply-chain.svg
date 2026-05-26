@@ -1,0 +1,57 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Dreamcatcher Agents operating model</title>
+<desc id="desc">Architecture-style diagram linking persona catalog, platform assets, agent runtimes, and customer channels.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520"><stop stop-color="#020617"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.6"/></pattern>
+  <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity="0.28"/></filter>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="520" rx="28" fill="url(#grid)" opacity="0.8"/>
+<text x="60" y="70" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui" font-size="36" font-weight="800">Agent identity supply chain</text>
+<text x="60" y="103" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui" font-size="17">Every persona is specified once, rendered consistently, and deployed with auditable disclosure.</text>
+
+<g stroke="#64748b" stroke-width="2" marker-end="url(#arrow)" opacity="0.9">
+  <path d="M300 250 C360 250, 360 250, 420 250"/>
+  <path d="M620 250 C680 250, 680 250, 740 250"/>
+  <path d="M940 250 C1000 250, 1000 250, 1060 250"/>
+</g>
+
+<g font-family="Inter, ui-sans-serif, system-ui" filter="url(#shadow)">
+  <rect x="60" y="160" width="240" height="180" rx="18" fill="#0f172a" stroke="#22d3ee" stroke-width="2"/>
+  <text x="86" y="205" fill="#e0f2fe" font-size="22" font-weight="800">Persona catalog</text>
+  <text x="86" y="236" fill="#cbd5e1" font-size="14">manifest + human specs</text>
+  <text x="86" y="270" fill="#94a3b8" font-size="13">• role and operating niche</text>
+  <text x="86" y="294" fill="#94a3b8" font-size="13">• tone and guardrails</text>
+  <text x="86" y="318" fill="#94a3b8" font-size="13">• platform-ready copy</text>
+
+  <rect x="420" y="160" width="200" height="180" rx="18" fill="#0f172a" stroke="#34d399" stroke-width="2"/>
+  <text x="446" y="205" fill="#d1fae5" font-size="22" font-weight="800">Identity kit</text>
+  <text x="446" y="236" fill="#cbd5e1" font-size="14">one master asset</text>
+  <text x="446" y="270" fill="#94a3b8" font-size="13">• GitHub avatar</text>
+  <text x="446" y="294" fill="#94a3b8" font-size="13">• Telegram profile</text>
+  <text x="446" y="318" fill="#94a3b8" font-size="13">• WhatsApp + email</text>
+
+  <rect x="740" y="160" width="200" height="180" rx="18" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/>
+  <text x="766" y="205" fill="#ede9fe" font-size="22" font-weight="800">Agent runtime</text>
+  <text x="766" y="236" fill="#cbd5e1" font-size="14">Hermes-style deploys</text>
+  <text x="766" y="270" fill="#94a3b8" font-size="13">• tools and memory</text>
+  <text x="766" y="294" fill="#94a3b8" font-size="13">• gateway adapters</text>
+  <text x="766" y="318" fill="#94a3b8" font-size="13">• conformance reports</text>
+
+  <rect x="1060" y="160" width="90" height="180" rx="18" fill="#0f172a" stroke="#f472b6" stroke-width="2"/>
+  <text x="1105" y="205" text-anchor="middle" fill="#fce7f3" font-size="18" font-weight="800">Channels</text>
+  <text x="1105" y="247" text-anchor="middle" fill="#cbd5e1" font-size="12">GitHub</text>
+  <text x="1105" y="274" text-anchor="middle" fill="#cbd5e1" font-size="12">Telegram</text>
+  <text x="1105" y="301" text-anchor="middle" fill="#cbd5e1" font-size="12">WhatsApp</text>
+  <text x="1105" y="328" text-anchor="middle" fill="#cbd5e1" font-size="12">Email</text>
+</g>
+
+<g font-family="Inter, ui-sans-serif, system-ui" font-size="14">
+  <rect x="60" y="402" width="1080" height="64" rx="16" fill="#020617" stroke="#334155"/>
+  <circle cx="92" cy="434" r="7" fill="#22d3ee"/>
+  <text x="112" y="439" fill="#cbd5e1">Disclosure is part of the spec: these personas are fictional AI agents, not human employees.</text>
+  <text x="760" y="439" fill="#94a3b8">consistency · auditability · reusable assets</text>
+</g>
+</svg>
