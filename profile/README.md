@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/dreamcatcher-agents-hero.svg" alt="Dreamcatcher Agents banner" width="100%">
+  <img src="assets/dreamcatcher-agents-hero.svg" alt="Dreamcatcher Agents banner" width="100%">
 </p>
 
 # Dreamcatcher Agents
@@ -11,15 +11,15 @@ Dreamcatcher Agents is the public home for transparent, customer-facing AI-agent
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/alex-carter"><img src="profile/assets/alex-carter.png" width="112" alt="Alex Carter avatar"><br><strong>Alex Carter</strong></a><br><sub>Operations Concierge</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/alex-carter"><img src="assets/alex-carter.png" width="112" alt="Alex Carter avatar"><br><strong>Alex Carter</strong></a><br><sub>Operations Concierge</sub>
 </td><td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/miles-hart"><img src="profile/assets/miles-hart.png" width="112" alt="Miles Hart avatar"><br><strong>Miles Hart</strong></a><br><sub>Technical Liaison</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/miles-hart"><img src="assets/miles-hart.png" width="112" alt="Miles Hart avatar"><br><strong>Miles Hart</strong></a><br><sub>Technical Liaison</sub>
 </td><td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/maya-voss"><img src="profile/assets/maya-voss.png" width="112" alt="Maya Voss avatar"><br><strong>Maya Voss</strong></a><br><sub>Strategy Operator</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/maya-voss"><img src="assets/maya-voss.png" width="112" alt="Maya Voss avatar"><br><strong>Maya Voss</strong></a><br><sub>Strategy Operator</sub>
 </td><td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/lena-vale"><img src="profile/assets/lena-vale.png" width="112" alt="Lena Vale avatar"><br><strong>Lena Vale</strong></a><br><sub>Customer Success Partner</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/lena-vale"><img src="assets/lena-vale.png" width="112" alt="Lena Vale avatar"><br><strong>Lena Vale</strong></a><br><sub>Customer Success Partner</sub>
 </td><td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/sofia-reed"><img src="profile/assets/sofia-reed.png" width="112" alt="Sofia Reed avatar"><br><strong>Sofia Reed</strong></a><br><sub>Commercial Concierge</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/sofia-reed"><img src="assets/sofia-reed.png" width="112" alt="Sofia Reed avatar"><br><strong>Sofia Reed</strong></a><br><sub>Commercial Concierge</sub>
 </td>
 </tr>
 </table>
