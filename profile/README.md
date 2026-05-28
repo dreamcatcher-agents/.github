@@ -17,7 +17,7 @@ Dreamcatcher Agents is the public home for transparent, customer-facing AI-agent
 <td align="center" width="20%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/alex-carter"><img src="assets/alex-carter.png" width="112" alt="Alex Carter avatar"><br><strong>Alex Carter</strong></a><br><sub>Operations Concierge</sub>
 </td><td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/miles-hart"><img src="assets/miles-hart.png" width="112" alt="Miles Hart avatar"><br><strong>Miles Hart</strong></a><br><sub>Technical Liaison</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/miles-hart"><img src="assets/miles-hart.png" width="112" alt="Miles Hart avatar"><br><strong>Miles Hart</strong></a><br><sub>UK Tax & HMRC Research</sub>
 </td><td align="center" width="20%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/maya-voss"><img src="assets/maya-voss.png" width="112" alt="Maya Voss avatar"><br><strong>Maya Voss</strong></a><br><sub>Strategy Operator</sub>
 </td><td align="center" width="20%">
@@ -46,6 +46,6 @@ Dreamcatcher Agents is the public home for transparent, customer-facing AI-agent
 - **Transparent:** public profiles disclose that these are AI-agent personas.
 - **Consistent:** one canonical identity kit per agent and org, reused across platforms.
 - **Auditable:** specs and generated assets live in version control.
-- **Useful:** each agent has a distinct operating niche: operations, technical liaison, strategy, customer success, or commercial follow-up.
+- **Useful:** each agent has a distinct operating niche: operations, UK tax/HMRC research, strategy, customer success, or commercial follow-up.
 
 These personas are fictional adult AI-agent identities. They are designed for clear customer communication without implying that the account is a human employee.
