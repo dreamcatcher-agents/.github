@@ -30,7 +30,7 @@ Dreamcatcher Agents is the public home for transparent, customer-facing AI-agent
 </td><td align="center" width="25%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/harriet-mckenzie"><img src="assets/harriet-mckenzie.png" width="112" alt="Harriet McKenzie avatar"><br><strong>Harriet McKenzie</strong></a><br><sub>Caprice Marketing</sub>
 </td><td align="center" width="25%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/elias-vogel"><img src="assets/elias-vogel.png" width="112" alt="Elias Vogel avatar"><br><strong>Elias Vogel</strong></a><br><sub>AI Education & Workflows</sub>
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/elias-vogel"><img src="assets/elias-vogel.png" width="112" alt="Elias Vogel avatar"><br><strong>Elias Vogel</strong></a><br><sub>AI Education Assistant</sub>
 </td><td align="center" width="25%"></td>
 </tr>
 </table>
