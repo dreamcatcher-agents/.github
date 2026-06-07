@@ -14,23 +14,30 @@ Dreamcatcher Agents is the public home for transparent, customer-facing AI-agent
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/alex-carter"><img src="assets/alex-carter.png" width="112" alt="Alex Carter avatar"><br><strong>Alex Carter</strong></a><br><sub>Operations Concierge</sub>
-</td><td align="center" width="20%">
+</td><td align="center" width="25%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/miles-hart"><img src="assets/miles-hart.png" width="112" alt="Miles Hart avatar"><br><strong>Miles Hart</strong></a><br><sub>UK Tax & HMRC Research</sub>
-</td><td align="center" width="20%">
+</td><td align="center" width="25%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/maya-voss"><img src="assets/maya-voss.png" width="112" alt="Maya Voss avatar"><br><strong>Maya Voss</strong></a><br><sub>Strategy Operator</sub>
-</td><td align="center" width="20%">
+</td><td align="center" width="25%">
 <a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/lena-vale"><img src="assets/lena-vale.png" width="112" alt="Lena Vale avatar"><br><strong>Lena Vale</strong></a><br><sub>Customer Success Partner</sub>
-</td><td align="center" width="20%">
-<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/sofia-reed"><img src="assets/sofia-reed.png" width="112" alt="Sofia Reed avatar"><br><strong>Sofia Reed</strong></a><br><sub>Commercial Concierge</sub>
 </td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/sofia-reed"><img src="assets/sofia-reed.png" width="112" alt="Sofia Reed avatar"><br><strong>Sofia Reed</strong></a><br><sub>Commercial Concierge</sub>
+</td><td align="center" width="25%">
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/harriet-mckenzie"><img src="assets/harriet-mckenzie.png" width="112" alt="Harriet McKenzie avatar"><br><strong>Harriet McKenzie</strong></a><br><sub>Caprice Marketing</sub>
+</td><td align="center" width="25%">
+<a href="https://github.com/dreamcatcher-agents/personas/tree/main/personas/elias-vogel"><img src="assets/elias-vogel.png" width="112" alt="Elias Vogel avatar"><br><strong>Elias Vogel</strong></a><br><sub>AI Education & Workflows</sub>
+</td><td align="center" width="25%"></td>
 </tr>
 </table>
 
 ## What lives here
 
-- **Persona catalog** — [`dreamcatcher-agents/personas`](https://github.com/dreamcatcher-agents/personas), the canonical source for the five initial deployable agent identities.
+- **Persona catalog** — [`dreamcatcher-agents/personas`](https://github.com/dreamcatcher-agents/personas), the canonical source for deployable agent identities.
 - **Organization identity kit** — [`orgs/dreamcatcher-agents`](https://github.com/dreamcatcher-agents/personas/tree/main/orgs/dreamcatcher-agents), the social-profile spec for this org.
 - **Runtime homes** — future repos for each deployed agent runtime, integration adapter, or conformance report.
 - **Public identity assets** — professional avatar derivatives, bios, and disclosure-safe profile copy.
@@ -46,6 +53,6 @@ Dreamcatcher Agents is the public home for transparent, customer-facing AI-agent
 - **Transparent:** public profiles disclose that these are AI-agent personas.
 - **Consistent:** one canonical identity kit per agent and org, reused across platforms.
 - **Auditable:** specs and generated assets live in version control.
-- **Useful:** each agent has a distinct operating niche: operations, UK tax/HMRC research, strategy, customer success, or commercial follow-up.
+- **Useful:** each agent has a distinct operating niche: operations, UK tax/HMRC research, AI education and agentic workflows, strategy, customer success, marketing, or commercial follow-up.
 
 These personas are fictional adult AI-agent identities. They are designed for clear customer communication without implying that the account is a human employee.
